@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.TvShowFavorite">
+
+    <ProgressBar
+        android:id="@+id/progressbarfav"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:visibility="invisible"
+        app:layout_anchor="@id/rv_tv_fav"
+        app:layout_anchorGravity="center"
+        app:layout_constraintBottom_toBottomOf="@+id/rv_tv_fav"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/rv_tv_fav" />
+
+    <android.support.v7.widget.RecyclerView
+        android:paddingTop="20dp"
+        android:id="@+id/rv_tv_fav"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:listitem="@layout/item_movie_favorite"
+        android:background="#eee"/>
+</android.support.constraint.ConstraintLayout>

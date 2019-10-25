@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Catalogue Movie</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie_title">Movie</string>
+    <string name="tvshow_title">Tv Show</string>
+    <string name="setting_title">Setting</string>
+    <string name="change_language">Setting Language</string>
+    <string name="dummy_photos">Photo</string>
+    <string name="name_hero">The Matrix</string>
+    <string name="lorem" translatable="false">This is a ..</string>
+    <string name="description">Description</string>
+    <string name="favorite">Favorite</string>
+    <string name="title">Title</string>
+    <string name="image_poster">Poster</string>
+    <string name="star_icon">Rating</string>
+    <string name="vote_average">Vote</string>
+    <string name="vote_count">Vote Count</string>
+    <string name="languange">Language</string>
+    <string name="delete_movie">Delete</string>
+    <string name="list_tv">List Tv Show Favorite</string>
+    <string name="list_movie">List Movie Favorite</string>
+    <string name="date_realesed">Release</string>
+    <string name="search">Search</string>
+    <string name="Coba">coba</string>
+    <string name="empty_text">Empty</string>
+    <string name="turn_on">ON</string>
+    <string name="off">OFF</string>
+    <string name="alarm">Upcoming Movie Reminder</string>
+    <string name="alarm_daily">Daily Alarm</string>
+
+</resources>

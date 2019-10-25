@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="change_language">Pengaturan Bahasa</string>
+    <string name="date_realesed">Rilis</string>
+    <string name="delete_movie">Hapus</string>
+    <string name="description">Deskripsi</string>
+    <string name="dummy_photos">Foto</string>
+    <string name="favorite">Favorit</string>
+    <string name="image_poster">Poster</string>
+    <string name="languange">Bahasa</string>
+    <string name="list_movie">Daftar Film Favorit</string>
+    <string name="list_tv">Daftar Acara Tv Favorit</string>
+    <string name="movie_title">Film</string>
+    <string name="name_hero">The Natrix</string>
+    <string name="setting_title">Pengaturan</string>
+    <string name="star_icon">Rating</string>
+    <string name="title">Judul</string>
+    <string name="tvshow_title">Acara Tv</string>
+    <string name="vote_average">Pungutan</string>
+    <string name="vote_count">Hitungan Pungutan</string>
+    <string name="alarm">Pengingat Film Terbaru</string>
+    <string name="alarm_daily">Alarm Harian</string>
+    <string name="search">Cari</string>
+</resources>
